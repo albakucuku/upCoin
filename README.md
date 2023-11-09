@@ -13,8 +13,10 @@ Collaborative Design: The app's design and functionality are the result of colla
 Happy Trading!
 
 ### Login Authenticatoin
+<p align="center">
+  <img width="200" alt="Screenshot 2023-11-09 at 4 33 49 PM" src="https://github.com/albakucuku/upCoin/assets/114107554/1192a8e4-bef3-48d2-9fe8-f13496995259">
+</p>
 
-<img width="200" alt="Screenshot 2023-11-09 at 4 33 49 PM" src="https://github.com/albakucuku/upCoin/assets/114107554/1192a8e4-bef3-48d2-9fe8-f13496995259">
 
 ### Home Page
 
