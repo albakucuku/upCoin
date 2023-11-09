@@ -62,7 +62,7 @@ struct TradesView: View {
             return
         }
         
-        guard let url = URL(string: "https://api.coingecko.com/api/v3/coins/\(currencySymbol)/market_chart?vs_currency=usd&days=30") else {
+        guard let url = URL(string: "****INSERT URL HERE****") else {
             return
         }
         
@@ -85,9 +85,9 @@ struct LineGraph: View {
     var data: [Double]
     
     var body: some View {
+        
         // Render the line graph using the provided data
         // Customize the appearance and styling as per your requirements
-        
         GeometryReader { geometry in
             Path { path in
                 let minY = data.min() ?? 0
