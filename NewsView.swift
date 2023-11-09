@@ -41,7 +41,7 @@ struct NewsView: View {
     }
     
     func fetchArticles() {
-        let headers = [            "content-type": "application/octet-stream",            "X-RapidAPI-Key": "87c53a9665msh545487e8235e610p17c790jsn2d170c83757e",            "X-RapidAPI-Host": "crypto-news16.p.rapidapi.com"        ]
+        let headers = [            "content-type": "application/octet-stream",            "X-RapidAPI-Key": "***ENTER YOUR API KEY HERE***",            "X-RapidAPI-Host": "crypto-news16.p.rapidapi.com"        ]
 
         let request = NSMutableURLRequest(url: NSURL(string: "https://crypto-news16.p.rapidapi.com/news/top/5")! as URL,
                                           cachePolicy: .useProtocolCachePolicy,
